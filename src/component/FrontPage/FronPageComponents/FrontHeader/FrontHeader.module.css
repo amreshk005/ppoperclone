@@ -1,0 +1,14 @@
+.FrontHeader {
+  background-image: url("/images/AirPods_Charger.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: 100% 100%;
+  height: 60vh;
+}
+h1,
+button {
+  color: #3a3a3a;
+  font-size: 32px;
+  margin-bottom: 0.2em;
+  line-height: 37px;
+}
