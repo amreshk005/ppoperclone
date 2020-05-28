@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/amreshk005/ppoper-clone/static/css/main.470fa8c1.chunk.css",
+    "main.js": "/amreshk005/ppoper-clone/static/js/main.00fcbc55.chunk.js",
+    "main.js.map": "/amreshk005/ppoper-clone/static/js/main.00fcbc55.chunk.js.map",
+    "runtime-main.js": "/amreshk005/ppoper-clone/static/js/runtime-main.33aa6c94.js",
+    "runtime-main.js.map": "/amreshk005/ppoper-clone/static/js/runtime-main.33aa6c94.js.map",
+    "static/js/2.c10f686e.chunk.js": "/amreshk005/ppoper-clone/static/js/2.c10f686e.chunk.js",
+    "static/js/2.c10f686e.chunk.js.map": "/amreshk005/ppoper-clone/static/js/2.c10f686e.chunk.js.map",
+    "index.html": "/amreshk005/ppoper-clone/index.html",
+    "precache-manifest.b6be004a88efac6ab67d489aeb1bb73b.js": "/amreshk005/ppoper-clone/precache-manifest.b6be004a88efac6ab67d489aeb1bb73b.js",
+    "service-worker.js": "/amreshk005/ppoper-clone/service-worker.js",
+    "static/css/main.470fa8c1.chunk.css.map": "/amreshk005/ppoper-clone/static/css/main.470fa8c1.chunk.css.map",
+    "static/js/2.c10f686e.chunk.js.LICENSE.txt": "/amreshk005/ppoper-clone/static/js/2.c10f686e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.33aa6c94.js",
+    "static/js/2.c10f686e.chunk.js",
+    "static/css/main.470fa8c1.chunk.css",
+    "static/js/main.00fcbc55.chunk.js"
+  ]
+}
