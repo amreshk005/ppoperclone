@@ -3,7 +3,7 @@ import { Link } from "react-router-dom";
 
 const Footer = () => {
   return (
-    <div className="row flex-column m-0 mb-5" style={{ maxHeight: "80vh" }}>
+    <div className="row flex-column m-0 mb-5" style={{ minHeight: "60vh" }}>
       <div className="row col-12 m-0 justify-content-center align-items-center h-25 mb-5">
         <Link to="/pages/iPhone" style={{ textDecoration: "none" }}>
           <h1>Shop all iPhone Magnetic Cases & Mounts →</h1>

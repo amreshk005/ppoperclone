@@ -1,5 +1,6 @@
 import React from "react";
 import style from "./MainBody.module.css";
+import { Link } from "react-router-dom";
 
 const product = [
   {
@@ -28,18 +29,18 @@ const Main = () => {
       <div className="row m-0 justify-content-around align-items-center">
         {product.map((e) => {
           return (
-            <div class="card col-3 p-0 border-0" style={{ height: "80%" }}>
-              <img src={e.image} class="card-img-top" alt="..." />
-              <div class="card-body">
-                <h5 class="card-title" style={{ fontSize: "15.9px", fontWeight: "bold" }}>
+            <div key={e.title} className="card col-3 p-0 border-0" style={{ height: "80%" }}>
+              <img src={e.image} className="card-img-top" alt="..." />
+              <div className="card-body">
+                <h5 className="card-title" style={{ fontSize: "15.9px", fontWeight: "bold" }}>
                   {e.title}
                 </h5>
-                <p class="card-text" style={{ fontSize: "14px" }}>
+                <p className="card-text" style={{ fontSize: "14px" }}>
                   {e.des}
                 </p>
-                <a href="#" class="btn btn-info" style={{ width: "10rem" }}>
+                <Link to="/pages/ipad" className="btn btn-info" style={{ width: "10rem" }}>
                   {e.button_des}
-                </a>
+                </Link>
               </div>
             </div>
           );

@@ -8,7 +8,7 @@ const FrontHeader = () => {
         <h1>Wireless Charger for AirPods</h1>
         <p>Keep your AirPods always within arm's reach, always charged</p>
         <div style={{ width: "35%" }}>
-          <button type="button" class="btn btn-info btn-lg">
+          <button type="button" className="btn btn-info btn-lg">
             Pre-Order Now
           </button>
         </div>
